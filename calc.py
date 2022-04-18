@@ -16,7 +16,7 @@ def multiply(n1,n2):
     '''
     multiplies n1 by n2
     '''
-    return n1*n2
+    return n1/n2
 
 
 n1=int(input("Enter 1st number"))
